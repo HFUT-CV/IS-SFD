@@ -5,7 +5,7 @@ This repository contains the code for our paper.
 
 ### News
 
-the code is coming soon.
+The code is coming soon.
 
 ## Installation
 
